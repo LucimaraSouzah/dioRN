@@ -1,5 +1,4 @@
-# MyGithub React-Native
-# Introdução ao React-Native
+# MyGithub React Native
 <div align="center">
     <img src="src/image/mobile.png">
 </div>
